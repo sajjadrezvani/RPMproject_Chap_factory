@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=NetU3_13 Pin=U4-1
+Removed Pin From Net: NetName=NetU3_12 Pin=U4-2
+Removed Pin From Net: NetName=NetU3_11 Pin=U4-3
+Removed Pin From Net: NetName=NetU3_10 Pin=U4-4
+Removed Pin From Net: NetName=NetU3_9 Pin=U4-5
+Removed Pin From Net: NetName=NetU3_15 Pin=U4-6
+Removed Pin From Net: NetName=NetU3_14 Pin=U4-7
+Removed Pin From Net: NetName=NetU5_13 Pin=U6-1
+Removed Pin From Net: NetName=NetU5_12 Pin=U6-2
+Removed Pin From Net: NetName=NetU5_11 Pin=U6-3
+Removed Pin From Net: NetName=NetU5_10 Pin=U6-4
+Removed Pin From Net: NetName=NetU5_9 Pin=U6-5
+Removed Pin From Net: NetName=NetU5_15 Pin=U6-6
+Removed Pin From Net: NetName=NetU5_14 Pin=U6-7
+Added Pin To Net: NetName=NetU3_15 Pin=U4-1
+Added Pin To Net: NetName=NetU3_14 Pin=U4-2
+Added Pin To Net: NetName=NetU3_13 Pin=U4-3
+Added Pin To Net: NetName=NetU3_12 Pin=U4-4
+Added Pin To Net: NetName=NetU3_11 Pin=U4-5
+Added Pin To Net: NetName=NetU3_10 Pin=U4-6
+Added Pin To Net: NetName=NetU3_9 Pin=U4-7
+Added Pin To Net: NetName=NetU5_15 Pin=U6-1
+Added Pin To Net: NetName=NetU5_14 Pin=U6-2
+Added Pin To Net: NetName=NetU5_13 Pin=U6-3
+Added Pin To Net: NetName=NetU5_12 Pin=U6-4
+Added Pin To Net: NetName=NetU5_11 Pin=U6-5
+Added Pin To Net: NetName=NetU5_10 Pin=U6-6
+Added Pin To Net: NetName=NetU5_9 Pin=U6-7
+Added Member To Class: ClassName=Sheet1 Member=Component J 1751251
+Added Room: Name=Sheet1

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=12v Pin=J-1
+Removed Pin From Net: NetName=12v Pin=U7-1
+Added Pin To Net: NetName=NetC3_1 Pin=J-1
+Added Pin To Net: NetName=NetC3_1 Pin=U7-1
+Change Net Name : Old Net Name=12v New Net Name=NetJ1_5
+Change Net Name : Old Net Name=NetC3_1 New Net Name=12v
+Added Room: Name=Sheet1
+Change Rule Scope 1 : Old Scope=InNet('12v') New Scope=InNet('NetJ1_5')
+Change Rule Scope 1 : Old Scope=InNet('NetC3_1') New Scope=InNet('12v')

@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=U7-1
+Removed Pin From Net: NetName=NetC1_1 Pin=X-2
+Change Component Description : Designator=C1 Old Description=220ÂµF 35V Aluminum Electrolytic Capacitors Radial, Can - SMD 2000 Hrs @ 105Â°C New Description=220AµF 35V Aluminum Electrolytic Capacitors Radial, Can - SMD 2000 Hrs @ 105A°C
+Change Component Description : Designator=C3 Old Description=220ÂµF 35V Aluminum Electrolytic Capacitors Radial, Can - SMD 2000 Hrs @ 105Â°C New Description=220AµF 35V Aluminum Electrolytic Capacitors Radial, Can - SMD 2000 Hrs @ 105A°C
+Change Component Description : Designator=U9 Old Description=Buck Switching Regulator IC Positive Fixed 12V 1 Output 3A TO-263-6, DÂ²Pak _5 Leads + Tab_, TO-263BA New Description=Buck Switching Regulator IC Positive Fixed 12V 1 Output 3A TO-263-6, DA²Pak _5 Leads + Tab_, TO-263BA
+Change Component Description : Designator=D3 Old Description=LED; SMD; 3528, PLCC2; RGB; 3.5x2.8mm; 120Â°; Red lumin: 1 New Description=LED; SMD; 3528, PLCC2; RGB; 3.5x2.8mm; 120A°; Red lumin: 1
+Change Component Description : Designator=D1 Old Description=LED; SMD; 3528, PLCC2; white cold; 1700-2500mcd; 120Â°; 2 New Description=LED; SMD; 3528, PLCC2; white cold; 1700-2500mcd; 120A°; 2
+Change Component Description : Designator=D2 Old Description=LED; SMD; 3528, PLCC2; white cold; 1700-2500mcd; 120Â°; 2 New Description=LED; SMD; 3528, PLCC2; white cold; 1700-2500mcd; 120A°; 2
+Change Component Description : Designator=R1 Old Description=RC Series 0805 0.125 W 3.3 kOhms 5% Â±100 ppm/Â°C SMT Thick Film Chip Resistor New Description=RC Series 0805 0.125 W 3.3 kOhms 5% A±100 ppm/A°C SMT Thick Film Chip Resistor
+Change Component Description : Designator=R2 Old Description=RC Series 0805 0.125 W 3.3 kOhms 5% Â±100 ppm/Â°C SMT Thick Film Chip Resistor New Description=RC Series 0805 0.125 W 3.3 kOhms 5% A±100 ppm/A°C SMT Thick Film Chip Resistor
+Change Component Description : Designator=R3 Old Description=RC Series 0805 0.125 W 3.3 kOhms 5% Â±100 ppm/Â°C SMT Thick Film Chip Resistor New Description=RC Series 0805 0.125 W 3.3 kOhms 5% A±100 ppm/A°C SMT Thick Film Chip Resistor
+Change Component Description : Designator=R4 Old Description=RC Series 0805 0.125 W 3.3 kOhms 5% Â±100 ppm/Â°C SMT Thick Film Chip Resistor New Description=RC Series 0805 0.125 W 3.3 kOhms 5% A±100 ppm/A°C SMT Thick Film Chip Resistor
+Added Component: Designator=J(GCT_DCJ200-10-A-XX-X_REVA)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Global Connector Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DCJ200-10-A-K1-K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DCJ200-10-A-K1-K/Global%20Connector%20Technology/view-part/641259/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X1(FUSE_BK-6005)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "MPD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BK-6005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Non-Standard MPD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BK-6005/MPD/view-part/4614389/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ1_5 Pin=J-1
+Added Pin To Net: NetName=GND Pin=J-2
+Added Pin To Net: NetName=GND Pin=J-3
+Added Pin To Net: NetName=NetJ1_5 Pin=U7-1
+Added Pin To Net: NetName=NetC1_1 Pin=X1-1
+Added Pin To Net: NetName=NetC1_1 Pin=X1-2
+Added Pin To Net: NetName=NetJ_3 Pin=X-2
+Change Net Name : Old Net Name=NetJ1_5 New Net Name=12v
+Added Member To Class: ClassName=Sheet1 Member=Component J 1751251
+Added Member To Class: ClassName=Sheet1 Member=Component X1 BK-6005

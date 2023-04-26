@@ -1,0 +1,13 @@
+Change Component Description : Designator=C1 Old Description=220AµF 35V Aluminum Electrolytic Capacitors Radial, Can - SMD 2000 Hrs @ 105A°C New Description=220ÂµF 35V Aluminum Electrolytic Capacitors Radial, Can - SMD 2000 Hrs @ 105Â°C
+Change Component Description : Designator=C3 Old Description=220AµF 35V Aluminum Electrolytic Capacitors Radial, Can - SMD 2000 Hrs @ 105A°C New Description=220ÂµF 35V Aluminum Electrolytic Capacitors Radial, Can - SMD 2000 Hrs @ 105Â°C
+Change Component Description : Designator=U9 Old Description=Buck Switching Regulator IC Positive Fixed 12V 1 Output 3A TO-263-6, DA²Pak _5 Leads + Tab_, TO-263BA New Description=Buck Switching Regulator IC Positive Fixed 12V 1 Output 3A TO-263-6, DÂ²Pak _5 Leads + Tab_, TO-263BA
+Change Component Description : Designator=D3 Old Description=LED; SMD; 3528, PLCC2; RGB; 3.5x2.8mm; 120A°; Red lumin: 1 New Description=LED; SMD; 3528, PLCC2; RGB; 3.5x2.8mm; 120Â°; Red lumin: 1
+Change Component Description : Designator=D1 Old Description=LED; SMD; 3528, PLCC2; white cold; 1700-2500mcd; 120A°; 2 New Description=LED; SMD; 3528, PLCC2; white cold; 1700-2500mcd; 120Â°; 2
+Change Component Description : Designator=D2 Old Description=LED; SMD; 3528, PLCC2; white cold; 1700-2500mcd; 120A°; 2 New Description=LED; SMD; 3528, PLCC2; white cold; 1700-2500mcd; 120Â°; 2
+Change Component Description : Designator=R1 Old Description=RC Series 0805 0.125 W 3.3 kOhms 5% A±100 ppm/A°C SMT Thick Film Chip Resistor New Description=RC Series 0805 0.125 W 3.3 kOhms 5% Â±100 ppm/Â°C SMT Thick Film Chip Resistor
+Change Component Description : Designator=R2 Old Description=RC Series 0805 0.125 W 3.3 kOhms 5% A±100 ppm/A°C SMT Thick Film Chip Resistor New Description=RC Series 0805 0.125 W 3.3 kOhms 5% Â±100 ppm/Â°C SMT Thick Film Chip Resistor
+Change Component Description : Designator=R3 Old Description=RC Series 0805 0.125 W 3.3 kOhms 5% A±100 ppm/A°C SMT Thick Film Chip Resistor New Description=RC Series 0805 0.125 W 3.3 kOhms 5% Â±100 ppm/Â°C SMT Thick Film Chip Resistor
+Change Component Description : Designator=R4 Old Description=RC Series 0805 0.125 W 3.3 kOhms 5% A±100 ppm/A°C SMT Thick Film Chip Resistor New Description=RC Series 0805 0.125 W 3.3 kOhms 5% Â±100 ppm/Â°C SMT Thick Film Chip Resistor
+Added Member To Class: ClassName=Sheet1 Member=Component J DCJ200-10-A-XX-X_REVA
+Added Room: Name=Sheet1
+Added Rule: Name=Schematic Width Constraint

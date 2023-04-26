@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=X1-1
+Removed Pin From Net: NetName=NetC1_1 Pin=X1-2
+Removed Pin From Net: NetName=NetJ4_3 Pin=X-1
+Removed Pin From Net: NetName=NetJ4_3 Pin=X-2
+Added Pin To Net: NetName=NetJ4_3 Pin=X1-1
+Added Pin To Net: NetName=NetJ4_3 Pin=X1-2
+Added Pin To Net: NetName=NetC1_1 Pin=X-1
+Added Pin To Net: NetName=NetC1_1 Pin=X-2
+Added Room: Name=Sheet1
+Added Rule: Name=Schematic Clearance Constraint
+Added Rule: Name=Schematic Clearance Constraint_1
+Added Rule: Name=Schematic Width Constraint_1
+Added Rule: Name=Schematic Width Constraint_2
+Added Rule: Name=Schematic Width Constraint_3
+Added Rule: Name=Schematic Width Constraint_4
+Added Rule: Name=Schematic Width Constraint_12
+Added Rule: Name=Schematic Width Constraint_13

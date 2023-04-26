@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=GND Pin=GP2-1
+Added Member To Class: ClassName=Sheet1 Member=Component GP2 Grounded Pad
+Added Room: Name=Sheet1

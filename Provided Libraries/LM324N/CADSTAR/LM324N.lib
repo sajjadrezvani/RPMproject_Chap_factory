@@ -1,0 +1,18 @@
+.LM324N :1 ;OP Amp Quad GP 16V/32V 14-Pin PDIP Texas Instruments LM324N, Quad Op Amp, 1.2MHz, 5-28 V, 14-Pin PDIP
+DIP794W56P254L1905H533Q14N
+*STM IC
+*NGS
+*PLB 1="OUTPUT 1" 2="INPUT 1-" 3="INPUT 1+" 4="V+" 5="INPUT 2+" 6="INPUT 2-" 7="OUTPUT 2" 8="OUTPUT 3" 9="INPUT 3-" 10="INPUT 3+" 11="GND" 12="INPUT 4+" 13="INPUT 4-" 14="OUTPUT 4"
+*MXP 14
+*DFN LM324N
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (LM324N)
+~!Mouser Part Number (595-LM324N)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM324N?qs=VolsR0DjNPqtt3qB38bTqw%3D%3D)
+~!Arrow Part Number (LM324N)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/lm324n/texas-instruments?region=nac)
+~!Link Datasheet (http://www.ti.com/lit/ds/symlink/lm324-n.pdf)
+~!Height (5.334mm)
+~!3D_Model (LM324N)
+LM324N
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 14.1!U 13.1!U 12.1!U 11.1!U 10.1!U 9.1!U 8.1!U 

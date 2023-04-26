@@ -1,0 +1,189 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "LM324N"
+   (description "OP Amp Quad GP 16V/32V 14-Pin PDIP Texas Instruments LM324N, Quad Op Amp, 1.2MHz, 5-28 V, 14-Pin PDIP")
+   (family "ANA")
+   (package "DIP794W56P254L1905H533Q14N")
+   (attribute "Datasheet Link" "http://www.ti.com/lit/ds/symlink/lm324-n.pdf")
+   (attribute "Geometry.Height" "5.334mm")
+   (attribute "Manufacturer_Name" "Texas Instruments")
+   (attribute "Manufacturer_Part_Number" "LM324N")
+   (attribute "Mouser Part Number" "595-LM324N")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM324N?qs=VolsR0DjNPqtt3qB38bTqw%3D%3D")
+   (attribute "Arrow Part Number" "LM324N")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/lm324n/texas-instruments?region=nac")
+   (gate
+    (symbol "LM324N")
+    (pin "OUTPUT_1" 1 PS)
+    (pin "INPUT_1-" 2 PS)
+    (pin "INPUT_1+" 3 PS)
+    (pin "V+" 4 PS)
+    (pin "INPUT_2+" 5 PS)
+    (pin "INPUT_2-" 6 PS)
+    (pin "OUTPUT_2" 7 PS)
+    (pin "OUTPUT_4" 14 PS)
+    (pin "INPUT_4-" 13 PS)
+    (pin "INPUT_4+" 12 PS)
+    (pin "GND" 11 PS)
+    (pin "INPUT_3+" 10 PS)
+    (pin "INPUT_3-" 9 PS)
+    (pin "OUTPUT_3" 8 PS)
+   )
+  )
+  (symbol "LM324N"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1300 100) (pt 1300 -700) (pt 200 -700) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -400) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -500) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -600) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1500 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1500 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1500 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1500 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1500 -400) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1500 -500) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1500 -600) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "DIP794W56P254L1905H533Q14N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -4.957 9.838)
+      (pt 4.957 9.838)
+      (pt 4.957 -9.838)
+      (pt -4.957 -9.838)
+      (pt -4.957 9.838))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.302 9.588)
+      (pt 3.302 9.588)
+      (pt 3.302 -9.588)
+      (pt -3.302 -9.588)
+      (pt -3.302 9.588))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -3.302 8.318)
+      (pt -2.032 9.588))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -4.548 9.588)
+      (pt 3.302 9.588))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -3.302 -9.588)
+      (pt 3.302 -9.588))))
+   (leg 1 (pt -3.969 7.62) (padstack 1))
+   (leg 2 (pt -3.969 5.08) (padstack 0))
+   (leg 3 (pt -3.969 2.54) (padstack 0))
+   (leg 4 (pt -3.969 0) (padstack 0))
+   (leg 5 (pt -3.969 -2.54) (padstack 0))
+   (leg 6 (pt -3.969 -5.08) (padstack 0))
+   (leg 7 (pt -3.969 -7.62) (padstack 0))
+   (leg 8 (pt 3.969 -7.62) (padstack 0))
+   (leg 9 (pt 3.969 -5.08) (padstack 0))
+   (leg 10 (pt 3.969 -2.54) (padstack 0))
+   (leg 11 (pt 3.969 0) (padstack 0))
+   (leg 12 (pt 3.969 2.54) (padstack 0))
+   (leg 13 (pt 3.969 5.08) (padstack 0))
+   (leg 14 (pt 3.969 7.62) (padstack 0))
+   (padstack 0
+    (hole 0.759)
+    (plated true)
+    (pad (layer TCOP) (round 1.159))
+    (pad (layer INNER) (round 1.159))
+    (pad (layer BCOP) (round 1.159))
+   )
+   (padstack 1
+    (hole 0.759)
+    (plated true)
+    (pad (layer TCOP) (square 1.159))
+    (pad (layer INNER) (round 1.159))
+    (pad (layer BCOP) (square 1.159))
+   )
+   (model "LM324N.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

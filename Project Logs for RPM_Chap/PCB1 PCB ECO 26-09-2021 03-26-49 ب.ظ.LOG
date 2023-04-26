@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=GND Pin=U2-9
+Removed Pin From Net: NetName=GND Pin=U5-9
+Removed Pin From Net: NetName=GND Pin=U7-9
+Change Component Description : Designator=C2 Old Description=220ÂµF 35V Aluminum Electrolytic Capacitors Radial, Can - SMD 2000 Hrs @ 105Â°C New Description=220AµF 35V Aluminum Electrolytic Capacitors Radial, Can - SMD 2000 Hrs @ 105A°C
+Change Component Description : Designator=C4 Old Description=220ÂµF 35V Aluminum Electrolytic Capacitors Radial, Can - SMD 2000 Hrs @ 105Â°C New Description=220AµF 35V Aluminum Electrolytic Capacitors Radial, Can - SMD 2000 Hrs @ 105A°C
+Change Component Description : Designator=U9 Old Description=Buck Switching Regulator IC Positive Fixed 12V 1 Output 3A TO-263-6, DÂ²Pak _5 Leads + Tab_, TO-263BA New Description=Buck Switching Regulator IC Positive Fixed 12V 1 Output 3A TO-263-6, DA²Pak _5 Leads + Tab_, TO-263BA
+Change Component Description : Designator=D1 Old Description=LED; SMD; 3528, PLCC2; RGB; 3.5x2.8mm; 120Â°; Red lumin: 1 New Description=LED; SMD; 3528, PLCC2; RGB; 3.5x2.8mm; 120A°; Red lumin: 1
+Change Component Description : Designator=D2 Old Description=LED; SMD; 3528, PLCC2; white cold; 1700-2500mcd; 120Â°; 2 New Description=LED; SMD; 3528, PLCC2; white cold; 1700-2500mcd; 120A°; 2
+Change Component Description : Designator=D4 Old Description=LED; SMD; 3528, PLCC2; white cold; 1700-2500mcd; 120Â°; 2 New Description=LED; SMD; 3528, PLCC2; white cold; 1700-2500mcd; 120A°; 2
+Change Component Description : Designator=R1 Old Description=RC Series 0805 0.125 W 3.3 kOhms 5% Â±100 ppm/Â°C SMT Thick Film Chip Resistor New Description=RC Series 0805 0.125 W 3.3 kOhms 5% A±100 ppm/A°C SMT Thick Film Chip Resistor
+Change Component Description : Designator=R2 Old Description=RC Series 0805 0.125 W 3.3 kOhms 5% Â±100 ppm/Â°C SMT Thick Film Chip Resistor New Description=RC Series 0805 0.125 W 3.3 kOhms 5% A±100 ppm/A°C SMT Thick Film Chip Resistor
+Change Component Description : Designator=R3 Old Description=RC Series 0805 0.125 W 3.3 kOhms 5% Â±100 ppm/Â°C SMT Thick Film Chip Resistor New Description=RC Series 0805 0.125 W 3.3 kOhms 5% A±100 ppm/A°C SMT Thick Film Chip Resistor
+Change Component Description : Designator=R4 Old Description=RC Series 0805 0.125 W 3.3 kOhms 5% Â±100 ppm/Â°C SMT Thick Film Chip Resistor New Description=RC Series 0805 0.125 W 3.3 kOhms 5% A±100 ppm/A°C SMT Thick Film Chip Resistor
+Added Component: Designator=R5(RESC3116X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC1206JR-0713RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "3116 Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC1206JR-0713RL/Yageo/view-part/105893/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R6(RESC3116X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC1206JR-0713RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "3116 Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC1206JR-0713RL/Yageo/view-part/105893/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R7(RESC3116X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RC1206JR-0713RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "3116 Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RC1206JR-0713RL/Yageo/view-part/105893/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=U2-9
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=U5-9
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=U7-9
+Added Net: Name=NetR7_1
+Added Member To Class: ClassName=Sheet1 Member=Component D3 SS34
+Added Member To Class: ClassName=Sheet1 Member=Component R5 RC1206JR-0713RL
+Added Member To Class: ClassName=Sheet1 Member=Component R6 RC1206JR-0713RL
+Added Member To Class: ClassName=Sheet1 Member=Component R7 RC1206JR-0713RL
+Added Room: Name=Sheet1
+Added Rule: Name=Schematic Clearance Constraint_3

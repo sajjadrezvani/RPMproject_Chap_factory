@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=LM324N
+PartCategory=Integrated Circuit
+PackageCategory=Dual-In-Line Packages
+PinCount=14
+Version=4.4
+Released=2016-11-04 09:59:20
+Downloaded=2021-09-18 11:51:50
+3D=Y
